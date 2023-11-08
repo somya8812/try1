@@ -1,0 +1,8 @@
+
+
+SUT_INPUT: [
+            {"Sut_IP":"10.30.249.244","Core_IP":"10.30.249.221","User_Name":'vzqa',"Password":'Netprizm@2023',"Env":"qa2"},
+            {"Sut_IP":"10.30.249.96","Core_IP":"10.30.249.96","User_Name":"vzqa","Password":"B^m~9$","Env":"qa"}
+            # {"Sut_IP":"10.20.249.49","Core_IP":"10.20.249.38","User_Name":"kishona","Password":"Nand@7558","Env":"dev2"}
+          ]
+            

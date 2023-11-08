@@ -1,0 +1,144 @@
++------------------+----------------------+----------------------+
+| Modules          | qa                   | qa2                  |
++------------------+----------------------+----------------------+
+| SMF_Version      | 23.2.6.1             | 23.2.6.1             |
+| PCF_Version      | 23.2.6.1             | 23.2.6.1             |
+| UDM_Version      | 23.2.6.1             | 23.2.6.1             |
+| NRF_Version      | 23.2.6.1             | 23.2.6.1             |
+| UDR_Version      | 23.2.6.1             | 23.2.6.1             |
+| AUSF_Version     | 23.2.6.1             | 23.2.6.1             |
+| AMF_Version      | 23.2.6.1             | 23.2.6.1             |
+| UE_08            | module not found in  | 04.01.02             |
+|                  | qa                   |                      |
+| UE_10            | module not found in  | 04.01.03             |
+|                  | qa                   |                      |
+| CHV_PUBSUB       | v23.7.2.1            | v23.9.1.1            |
+| UE_13_UEMP_CSM   | module not found in  | v23.9.1.1            |
+|                  | qa                   |                      |
+| UE_03_UEMP_CSM   | v23.7.2.1            | v23.9.1.1            |
+| SD_SERVICE       | 23.08.23             | 23.09.21             |
+| PUBSUB_BROKER    | v23.7.2.1            | v23.9.1.1            |
+| AM_SERVICE       | 23.07.05             | 23.07.05             |
+| UE_08_UEMP       | module not found in  | v23.9.1.1            |
+|                  | qa                   |                      |
+| DU_11_RANP       | v23.7.2.1            | v23.9.1.1            |
+| NAF_SERVICE      | 23.09.11             | 23.09.29             |
+| UE_15            | module not found in  | 04.01.02             |
+|                  | qa                   |                      |
+| DU_12_RANP_CSM   | v23.7.2.1            | v23.9.1.1            |
+| UE_14_UEMP_PUBS… | module not found in  | v23.9.1.1            |
+|                  | qa                   |                      |
+| VATEST           | RF_23.8.1.1          | RF_23.9.1.0          |
+| CLI_TOOL         | 23.08.16.1           | 23.09.29.1           |
+| UE_10_UEMP       | module not found in  | v23.9.1.1            |
+|                  | qa                   |                      |
+| UE_16_UEMP_CSM   | module not found in  | v23.9.1.1            |
+|                  | qa                   |                      |
+| UE_12_UEMP       | module not found in  | v23.9.1.1            |
+|                  | qa                   |                      |
+| UE_04_UEMP_PUBS… | v23.7.2.1            | v23.9.1.1            |
+| UE_06_UEMP       | v23.7.2.1            | v23.9.1.1            |
+| UE_06_UEMP_CSM   | v23.7.2.1            | v23.9.1.1            |
+| UE_01            | 03.01.05.01          | 04.01.02             |
+| UE_03            | 03.01.05.01          | 04.01.02             |
+| UE_03_UEMP       | v23.7.2.1            | v23.9.1.1            |
+| UE_09            | module not found in  | 04.01.02             |
+|                  | qa                   |                      |
+| UE_13_UEMP       | module not found in  | v23.9.1.1            |
+|                  | qa                   |                      |
+| UE_05_UEMP_PUBS… | v23.7.2.1            | v23.9.1.1            |
+| UE_16            | module not found in  | 04.01.02             |
+|                  | qa                   |                      |
+| UE_07_UEMP_PUBS… | module not found in  | v23.9.1.1            |
+|                  | qa                   |                      |
+| DU_11_RANP_PUBS… | v23.7.2.1            | module not found in  |
+|                  |                      | qa2                  |
+| UE_11_UEMP_PUBS… | module not found in  | v23.9.1.1            |
+|                  | qa                   |                      |
+| UE_04            | 03.01.05.01          | 04.01.02             |
+| UE_10_UEMP_CSM   | module not found in  | v23.9.1.1            |
+|                  | qa                   |                      |
+| UE_05            | 03.01.05.01          | 04.01.02             |
+| UE_16_UEMP_PUBS… | module not found in  | v23.9.1.1            |
+|                  | qa                   |                      |
+| UE_03_UEMP_PUBS… | v23.7.2.1            | v23.9.1.1            |
+| UE_04_UEMP       | v23.7.2.1            | v23.9.1.1            |
+| DU_12_RANP       | v23.7.2.1            | v23.9.1.1            |
+| UE_07            | module not found in  | 04.01.02             |
+|                  | qa                   |                      |
+| UE_15_UEMP_PUBS… | module not found in  | v23.9.1.1            |
+|                  | qa                   |                      |
+| UE_15_UEMP       | module not found in  | v23.9.1.1            |
+|                  | qa                   |                      |
+| CU_01            | 02.05.13             | 02.05.13.1           |
+| CHV_CSM          | v23.7.2.1            | v23.9.1.1            |
+| UE_11            | module not found in  | 04.01.02             |
+|                  | qa                   |                      |
+| UE_04_UEMP_CSM   | v23.7.2.1            | v23.9.1.1            |
+| UE_02_UEMP       | v23.7.2.1            | v23.9.1.1            |
+| UE_14            | module not found in  | 04.01.02             |
+|                  | qa                   |                      |
+| DU12_RANP_PUBSUB | module not found in  | v23.9.1.1            |
+|                  | qa                   |                      |
+| EM_SERVICE       | 23.08.28.1           | 23.09.29.2           |
+| UE_09_UEMP_CSM   | module not found in  | v23.9.1.1            |
+|                  | qa                   |                      |
+| UE_13_UEMP_PUBS… | module not found in  | v23.9.1.1            |
+|                  | qa                   |                      |
+| UE_11_UEMP       | module not found in  | v23.9.1.1            |
+|                  | qa                   |                      |
+| UI_SERVICE       | 23.08.28.1           | 23.09.27.2           |
+| CHV              | RF_23.8.1.1          | RF_23.9.1.0          |
+| UE_05_UEMP       | v23.7.2.1            | v23.9.1.1            |
+| UE_08_UEMP_PUBS… | module not found in  | v23.9.1.1            |
+|                  | qa                   |                      |
+| UE_12_UEMP_CSM   | module not found in  | v23.9.1.1            |
+|                  | qa                   |                      |
+| UE_01_UEMP_PUBS… | v23.7.2.1            | v23.9.1.1            |
+| UE_07_UEMP_CSM   | module not found in  | v23.9.1.1            |
+|                  | qa                   |                      |
+| UE_09_UEMP_PUBS… | module not found in  | v23.9.1.1            |
+|                  | qa                   |                      |
+| UE_11_UEMP_CSM   | module not found in  | v23.9.1.1            |
+|                  | qa                   |                      |
+| UEM_SERVICE      | 23.07.11             | 23.07.11             |
+| UE_16_UEMP       | module not found in  | v23.9.1.1            |
+|                  | qa                   |                      |
+| UE_14_UEMP_CSM   | module not found in  | v23.9.1.1            |
+|                  | qa                   |                      |
+| DU_11_RANP_CSM   | v23.7.2.1            | v23.9.1.1            |
+| UE_02            | 03.01.05.01          | 04.01.02             |
+| DU_12            | 02.05.13             | 02.05.13             |
+| UE_12_UEMP_PUBS… | module not found in  | v23.9.1.1            |
+|                  | qa                   |                      |
+| UE_14_UEMP       | module not found in  | v23.9.1.1            |
+|                  | qa                   |                      |
+| UE_09_UEMP       | module not found in  | v23.9.1.1            |
+|                  | qa                   |                      |
+| UE_05_UEMP_CSM   | v23.7.2.1            | v23.9.1.1            |
+| UE_02_UEMP_PUBS… | v23.7.2.1            | v23.9.1.1            |
+| DU11_RANP_PUBSUB | module not found in  | v23.9.1.1            |
+|                  | qa                   |                      |
+| UE_12            | module not found in  | 04.01.02             |
+|                  | qa                   |                      |
+| UE_10_UEMP_PUBS… | module not found in  | v23.9.1.1            |
+|                  | qa                   |                      |
+| LMM_SERVICE      | 2.6.0                | 23.2.6.3             |
+| UE_08_UEMP_CSM   | module not found in  | v23.9.1.1            |
+|                  | qa                   |                      |
+| UE_15_UEMP_CSM   | module not found in  | v23.9.1.1            |
+|                  | qa                   |                      |
+| UE_07_UEMP       | module not found in  | v23.9.1.1            |
+|                  | qa                   |                      |
+| DU_11            | 02.05.13             | 02.05.13             |
+| CCL_SERVICE      | 23.08.21             | 23.09.20.2           |
+| UE_06            | 03.01.05.01          | 04.01.02             |
+| UE_06_UEMP_PUBS… | v23.7.2.1            | v23.9.1.1            |
+| UE_02_UEMP_CSM   | v23.7.2.1            | v23.9.1.1            |
+| UE_13            | module not found in  | 04.01.02             |
+|                  | qa                   |                      |
+| UE_01_UEMP       | v23.7.2.1            | v23.9.1.1            |
+| UE_01_UEMP_CSM   | v23.7.2.1            | v23.9.1.1            |
+| DU_12_RANP_PUBS… | v23.7.2.1            | module not found in  |
+|                  |                      | qa2                  |
++------------------+----------------------+----------------------+
